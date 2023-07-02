@@ -1,6 +1,6 @@
 # Website read News with HTML, CSS, Javascript
 
-- [NewsApp](https://)
+- You need to run with Nodejs and live-server
 - Get API from [NewsAPI](https://newsapi.org/)
 
 # Review
